@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=4000&pause=700&color=04D4A7&center=true&multiline=true&repeat=false&random=false&width=435&lines=Hi+I'm+Tiago+Louren%C3%A7o!" alt="Typing SVG" /></a>
 </h1>
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=4000&pause=700&color=04D4A7&center=true&multiline=true&random=false&width=435&lines=%3C+Web+Developer+%3E" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=4000&pause=700&color=04D4A7&center=true&random=false&width=435&lines=%3C+Web+Developer+%3E+" alt="Typing SVG" /></a>
 </h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tiagocl&label=Profile%20views&color=0e75b6&style=flat" alt="tiagocl" /> </p>
