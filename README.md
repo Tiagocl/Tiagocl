@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Tiago Campos Lourenço</h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=04d4a7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=<+Web+developer+>;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=4000&pause=700&color=04D4A7&center=true&multiline=true&repeat=false&random=false&width=435&lines=Hi+I'm+Tiago+Louren%C3%A7o!" alt="Typing SVG" /></a>
+</h1>
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=4000&pause=700&color=04D4A7&center=true&multiline=true&random=false&width=435&lines=%3C+Web+Developer+%3E" alt="Typing SVG" /></a>
 </h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tiagocl&label=Profile%20views&color=0e75b6&style=flat" alt="tiagocl" /> </p>
@@ -12,14 +14,17 @@
 
 - ⚡ Fun fact **I've been a competitive swimmer for 15 years**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">🌐 Connect with me 🌐</h2>
+
+<div align="center">
 <a href="https://linkedin.com/in/tiago campos lourenço" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago campos lourenço" height="30" width="40" /></a>
 <a href="https://instagram.com/tiagol_015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagol_015" height="30" width="40" /></a>
-</p>
+</div>
 
+<br>
+<br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,html,css,vscode,github,figma,git" />
   <br>
@@ -27,9 +32,18 @@
   <br>
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=f0f0f0&bg_color=232323&locale=en&layout=compact" alt="tiagocl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=f0f0f0&bg_color=232323&locale=en" alt="tiagocl" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=tiagocl&theme=dark&stroke=04d4a7&currStreakLabel=04d4a7&ring=04d4a7&fire=04d4a7" alt="tiagocl" />
+<img  src="https://github-readme-stats.vercel.app/api?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=fff&bg_color=232323&icon_color=04d4a7&rank_icon=github&border_radius=10&locale=en" alt="tiagocl" />
+<br/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=f0f0f0&bg_color=232323&locale=en&layout=compact" alt="tiagocl" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocl&theme=dark" style="max-width: 100%;"alt="tiagocl" /></p>
 
+    
+
+
+
+</div>
