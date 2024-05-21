@@ -36,10 +36,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=tiagocl&theme=dark&stroke=04d4a7&currStreakLabel=04d4a7&ring=04d4a7&fire=04d4a7" alt="tiagocl" />
-<img  src="https://github-readme-stats.vercel.app/api?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=fff&bg_color=232323&icon_color=04d4a7&rank_icon=github&border_radius=10&locale=en" alt="tiagocl" />
+<img  width=390 src="https://github-readme-streak-stats.herokuapp.com?user=tiagocl&theme=dark&stroke=04d4a7&currStreakLabel=04d4a7&ring=04d4a7&fire=04d4a7" alt="tiagocl" />
+<img  width=390 src="https://github-readme-stats.vercel.app/api?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=fff&bg_color=232323&icon_color=04d4a7&rank_icon=github&border_radius=10&locale=en" alt="tiagocl" />
 <br/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=f0f0f0&bg_color=232323&locale=en&layout=compact" alt="tiagocl" />
+<img  width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagocl&show_icons=true&title_color=04d4a7&text_color=f0f0f0&bg_color=232323&locale=en&layout=compact" alt="tiagocl" />
 
 
     
