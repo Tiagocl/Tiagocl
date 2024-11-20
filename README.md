@@ -37,7 +37,7 @@
 <br>
 <div align=center>
 <img  width=390 src="https://github-readme-streak-stats.herokuapp.com?user=tiagocl&theme=dark&stroke=4f78ff&border=4f78ff&currStreakLabel=4f78ff&ring=4f78ff&fire=4f78ff" alt="tiagocl" />
-<img  width=390 src="https://github-readme-stats.vercel.app/api?username=tiagocl&show_icons=true&title_color=4f78ff&border_color=4f78ff&text_color=fff&bg_color=232323&icon_color=4f78ff&rank_icon=github&border_radius=10&locale=en" alt="tiagocl" />
+<img  width=390 src="https://github-readme-stats.vercel.app/api?username=tiagocl&include_all_commits=true&show_icons=true&title_color=4f78ff&border_color=4f78ff&text_color=fff&bg_color=232323&icon_color=4f78ff&rank_icon=github&border_radius=10&locale=en" alt="tiagocl" />
 <br/>
 <img  width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagocl&border_color=4f78ff&show_icons=true&title_color=4f78ff&text_color=f0f0f0&bg_color=232323&locale=en&layout=compact" alt="tiagocl" />
 
