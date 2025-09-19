@@ -8,7 +8,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tiagocl&label=Profile%20views&color=0e75b6&style=flat" alt="tiagocl" /> </p>
 
 
-- 🔭 I’m currently studying **Engineering and Computer Science at FEUP&FCUP**
+- 🎓 BSc in **Engineering and Computer Science at FEUP&FCUP**
 
 - 📫 How to reach me **tiagocamposlourenco@gmail.com**
 
